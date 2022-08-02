@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=skydihy&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?skydihy=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydihy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
